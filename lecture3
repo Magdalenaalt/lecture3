@@ -1,0 +1,120 @@
+
+//First
+
+//Console.WriteLine("Enter your name and last name please:");
+//Console.ReadLine();
+
+//Second 
+
+//Console.WriteLine("Enter first num");
+//int x = int.Parse(Console.ReadLine());
+//Console.WriteLine("Enter second num");
+//int y = int.Parse(Console.ReadLine());
+
+//int z = x+y;
+//Console.WriteLine(z);
+
+//int k = x - y;
+//Console.WriteLine(k);
+
+//int p = x * y;
+//Console.WriteLine(p);
+
+//int L = x % k;
+//Console.WriteLine(L);
+
+//Third
+
+//Console.WriteLine("Enter first num");
+//int x1 = int.Parse(Console.ReadLine());
+//Console.WriteLine("Enter second num");
+//int y1 = int.Parse(Console.ReadLine());
+
+//int newnum;
+
+//newnum = x1;
+//x1 = y1;
+//y1 = newnum;
+
+//fourth
+//Console.WriteLine("Enter first num");
+//int x1 = int.Parse(Console.ReadLine());
+
+//Console.WriteLine("Enter first num");
+//int x2 = int.Parse(Console.ReadLine());
+
+//Console.WriteLine("Enter first num");
+//int x3 = int.Parse(Console.ReadLine());
+
+//Console.WriteLine("Enter first num");
+//int x4 = int.Parse(Console.ReadLine());
+
+//int z = (x1+x2+x3+x4)/4;
+//Console.WriteLine(z);
+
+
+//Fifth
+//kelvin = celsius + 273
+
+//Console.WriteLine("write kelvin number");
+//int x1 = int.Parse(Console.ReadLine());
+//int kelvin = x1 - 273;
+//Console.WriteLine(kelvin);
+
+
+//Six
+
+//Console.WriteLine("Enter Number");
+//int x1 = int.Parse(Console.ReadLine());
+//if (x1>0) {
+//    Console.WriteLine("The number is positive");
+//};
+
+//Seventh
+
+//Console.WriteLine("Enter first num");
+//int x1 = int.Parse(Console.ReadLine());
+
+//Console.WriteLine("Enter first num");
+//int x2 = int.Parse(Console.ReadLine());
+
+//Console.WriteLine("Enter first num");
+//int x3 = int.Parse(Console.ReadLine());
+
+//if(x1>x2 && x1 > x3)
+//{
+//    Console.WriteLine("biggest "+x1);
+//};
+//if(x2>x1 && x2> x3)
+//{
+//    Console.WriteLine("biggest "+x2);
+//};
+
+//if(x3>x1 && x3 > x2)
+//{
+//    Console.WriteLine("biggest "+ x3);
+//}
+//else
+//{
+//    Console.WriteLine("not possible guys");
+
+//};
+
+
+//Eight
+
+//Console.WriteLine("Enter first num");
+//int x1 = int.Parse(Console.ReadLine());
+
+//Console.WriteLine("Enter first num");
+//int x2 = int.Parse(Console.ReadLine());
+//int k = x1= x2;
+//if (x1 == x2) {
+//    Console.WriteLine(k+3);
+//};
+
+//nine
+
+Console.WriteLine("Enter first num");
+int x1 = int.Parse(Console.ReadLine());
+
